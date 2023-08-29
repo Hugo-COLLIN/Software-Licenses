@@ -1,7 +1,7 @@
 Copyright (c) [Year] [Licensor]
 [Contact Information of the Licensor]
 
-Restricted modification and distribution software license - Collaborative
+Restricted Modification and Distribution Software License - Collaborative
 Version 1.0 - August 2023
 https://github.com/Hugo-COLLIN/Software-Licenses
 
